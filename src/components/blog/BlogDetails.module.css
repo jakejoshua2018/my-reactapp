@@ -1,0 +1,17 @@
+.blogDetails {
+    /* display: inline-block;
+    margin: 10px;
+    border: 1px solid rgb(73, 70, 70);
+    width: 90%;
+    padding: 20px;
+    color: blue; */
+
+    display: inline-block;
+    background-color: honeydew;
+    box-shadow: 0 4px 4px red;
+    height: max-content;
+    width: 400px;
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 10px;
+ }
